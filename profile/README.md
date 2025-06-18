@@ -36,7 +36,6 @@ Visit ARK → [https://www.trilp.in/ark](https://www.trilp.in/ark)
 ## 📫 Get in Touch
 
 - 🌐 Website: [https://www.trilp.in](https://www.trilp.in)
-- 📧 Email: [contact@trilp.in](mailto:contact@trilp.in)
 - 🧑‍💼 Founder: [Pradyumna Das Roy](https://www.linkedin.com/in/pradyroy/)
 
 ---
