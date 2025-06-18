@@ -32,11 +32,20 @@ Visit ARK → [https://www.trilp.in/ark](https://www.trilp.in/ark)
   Plug-and-play services for NLP, tabular prediction, and classification.
 
 ---
-
 ## 📫 Get in Touch
 
 - 🌐 Website: [https://www.trilp.in](https://www.trilp.in)
 - 🧑‍💼 Founder: [Pradyumna Das Roy](https://www.linkedin.com/in/pradyroy/)
+- 🧪 Personal GitHub: [github.com/pradyroy](https://github.com/pradyroy)
+
+---
+
+### 🌍 Social Pages (Trilp AI)
+
+- 💻 GitHub (Org): [github.com/trilpai](https://github.com/trilpai)  
+- 🔗 LinkedIn: [linkedin.com/company/trilpai](https://www.linkedin.com/company/trilpai)  
+- 📺 YouTube: [youtube.com/@trilpai](https://www.youtube.com/@trilpai)  
+- 📷 Instagram: [instagram.com/trilpai](https://www.instagram.com/trilpai/)
 
 ---
 
