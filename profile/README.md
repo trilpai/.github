@@ -1,68 +1,40 @@
-# Trilp AI · @trilpai
-
-**Empowering Minds. Engineering Futures.**  
-Welcome to the official GitHub organization of **Trilp AI**, a research-driven AI/ML software lab based in India.
-
-We focus on building **open-source AI-powered prototypes**, **production-ready developer tools**, and **smart microservice platforms** — all designed to bridge the gap between innovation and real-world enterprise applications.
-
----
-
-## 🧠 Skunk Works
-
-### 🔬 ARK — Applied Research Kernel
-A Skunk Works-inspired engineering lab that ships:
-- AI-enabled software platforms
-- API starter kits
-- Accounting and business logic engines
-- DevOps-ready ML services
-
-Visit ARK → [https://www.trilp.in/ark](https://www.trilp.in/ark)
+<div align="center">
+  <img src="https://www.trilp.in/assets/img/trilp-ai-logo.png" width="90" alt="Trilp AI logo" />
+  <h2>Trilp AI</h2>
+  <p><i>Learn AI and Software Engineering at a human pace.</i></p>
+</div>
 
 ---
 
-## 📦 Featured Projects
+Trilp AI is an independent learning studio based in Pune, India.  
+We focus on clarity in AI and Software Engineering — taught patiently, one concept at a time.
 
-- 🧱 **Python Tech Stack Starter Kit**  
-  A FastAPI-based microservice foundation with Docker, CI/CD, and REST APIs.
+Our learning materials are:
+- **Short** — compact enough to read steadily
+- **Clear** — designed for recall and intuition
+- **Practical** — grounded in real software development
 
-- 📊 **Journals & Ledgers Platform**  
-  An AI-assisted accounting and ledger engine with modular architecture.
+### Topics We Explore
+- Machine Learning Fundamentals
+- Deep Learning & LLMs
+- Vector Embeddings & Similarity Search
+- Python for AI & backend systems
+- Cloud-native & Systems Foundations
+- Prompt Design & applied reasoning
 
-- ⚙️ **ML Service Templates** *(Coming Soon)*  
-  Plug-and-play services for NLP, tabular prediction, and classification.
-
----
-## 📫 Get in Touch
-
-- 🌐 Website: [https://www.trilp.in](https://www.trilp.in)
-- 🧑‍💼 Founder: [Pradyumna Das Roy](https://www.linkedin.com/in/pradyroy/)
-- 🧪 Personal GitHub: [github.com/pradyroy](https://github.com/pradyroy)
-
----
-
-### 🌍 Social Pages (Trilp AI)
-
-- 💻 GitHub (Org): [github.com/trilpai](https://github.com/trilpai)  
-- 🔗 LinkedIn: [linkedin.com/company/trilpai](https://www.linkedin.com/company/trilpai)  
-- 📺 YouTube: [youtube.com/@trilpai](https://www.youtube.com/@trilpai)  
-- 📷 Instagram: [instagram.com/trilpai](https://www.instagram.com/trilpai/)
+### Philosophy
+Understanding over urgency.  
+Consistency over intensity.  
+Calm, precise, human-paced learning.
 
 ---
 
-## 🤝 Contribution Guidelines
+### Website
+https://www.trilp.in/
 
-We welcome collaborators! Please check individual repositories for:
-- Contribution steps
-- Issues marked `good first issue`
-- Roadmaps and project discussions
-
----
-
-## 📜 License
-
-Unless otherwise specified, all code here is licensed under the **MIT License**.
-
----
-
-Made with ❤️ in Pune, India  
-Driven by curiosity. Powered by code.
+### Social
+- YouTube: https://www.youtube.com/@trilpai
+- LinkedIn: https://www.linkedin.com/company/trilpai
+- Instagram: https://www.instagram.com/trilpai/
+- https://www.facebook.com/trilpai
+- https://github.com/trilpai
